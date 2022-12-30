@@ -1,2 +1,2 @@
 # PCA-MATLAB
-Implementation of principal component in MATLAB
+Implementation of Principal Component Analysis (PCA) in MATLAB
